@@ -1,0 +1,5 @@
+F:\SalesSys\SaleSysDIL\bin\Debug\SaleSysDIL.dll
+F:\SalesSys\SaleSysDIL\bin\Debug\SaleSysDIL.pdb
+F:\SalesSys\SaleSysDIL\obj\Debug\ResolveAssemblyReference.cache
+F:\SalesSys\SaleSysDIL\obj\Debug\SaleSysDIL.dll
+F:\SalesSys\SaleSysDIL\obj\Debug\SaleSysDIL.pdb
