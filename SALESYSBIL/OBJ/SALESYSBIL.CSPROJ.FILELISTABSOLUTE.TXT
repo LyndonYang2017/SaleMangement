@@ -1,0 +1,9 @@
+F:\SalesSys\SaleSysBIL\bin\Debug\SaleSysBIL.dll
+F:\SalesSys\SaleSysBIL\bin\Debug\SaleSysBIL.pdb
+F:\SalesSys\SaleSysBIL\obj\Debug\ResolveAssemblyReference.cache
+F:\SalesSys\SaleSysBIL\obj\Debug\SaleSysBIL.dll
+F:\SalesSys\SaleSysBIL\obj\Debug\SaleSysBIL.pdb
+F:\SalesSys\SaleSysBIL\bin\Debug\SaleSysEL.dll
+F:\SalesSys\SaleSysBIL\bin\Debug\SaleSysEL.pdb
+F:\SalesSys\SaleSysBIL\bin\Debug\SaleSysDIL.dll
+F:\SalesSys\SaleSysBIL\bin\Debug\SaleSysDIL.pdb
