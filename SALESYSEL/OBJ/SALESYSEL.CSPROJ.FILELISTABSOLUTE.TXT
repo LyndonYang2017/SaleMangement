@@ -1,0 +1,5 @@
+F:\SalesSys\SaleSysEL\bin\Debug\SaleSysEL.dll
+F:\SalesSys\SaleSysEL\bin\Debug\SaleSysEL.pdb
+F:\SalesSys\SaleSysEL\obj\Debug\ResolveAssemblyReference.cache
+F:\SalesSys\SaleSysEL\obj\Debug\SaleSysEL.dll
+F:\SalesSys\SaleSysEL\obj\Debug\SaleSysEL.pdb

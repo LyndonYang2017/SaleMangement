@@ -1,0 +1,5 @@
+E:\项目资料\泛型-销售系统\SaleSysEL\bin\Debug\SaleSysEL.dll
+E:\项目资料\泛型-销售系统\SaleSysEL\bin\Debug\SaleSysEL.pdb
+E:\项目资料\泛型-销售系统\SaleSysEL\obj\Debug\ResolveAssemblyReference.cache
+E:\项目资料\泛型-销售系统\SaleSysEL\obj\Debug\SaleSysEL.dll
+E:\项目资料\泛型-销售系统\SaleSysEL\obj\Debug\SaleSysEL.pdb
